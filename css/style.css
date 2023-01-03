@@ -4,3 +4,18 @@ footer {
     text-align: center;
     padding: 80px;
 }
+.jumbotron{
+    background-color: #1c1d25;
+    color: white;
+}
+
+nav {
+    background-color: #1c1d25;
+    
+}
+.nav-link{
+    color: white;
+}
+section{
+    background-color: white;
+}
