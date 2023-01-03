@@ -1,24 +1,25 @@
 body{
-    font-family: "poppins",sans-serif;
+    font-family: "poppins",sans-serif; /*font used on my web page */
 }
 footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 80px;
+    padding: 80px; /* footer colour scheme */
 }
 .jumbotron{
     background-color: #1c1d25;
-    color: white;
+    color: white; /*jumbotron colour scheme */
 }
 
 nav {
-    background-color: #1c1d25;
+    background-color: #1c1d25; /*colour for nav bar */
     
 }
 .nav-link{
-    color: white;
+    color: white; /* colour for the text*/
 }
 section{
-    background-color: white;
+    background-color: white; /* colour for the certain part of the webpage*/
 }
+
